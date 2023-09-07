@@ -24,6 +24,10 @@ Font Selection: Choose from a variety of fonts like Arial, Calibri, and more.
 
 Palette Selection: Save your favorite values within the macro to call later as a palette. Example: "text_styler palette=2" You can also still customize individual options within each palette.
 
+Randomization: The default behavior will pick a random option from the available selections, but you can disable this and have it cycle instead with "randomize=false"
+
+Style by the Word or by the Letters: by default the macro will alter every character, but you can disable this and have it do entire words instead with "by_word=true"
+
 <h3>Usage:</h3>
 
 The Text Styler Macro supports the ability to add multiple options, and it will cycle through all that are available, allowing you to create dynamic and visually appealing text. You can specify multiple values for each style parameter, and the macro will apply them sequentially. So setting the colors to red and blue will alternate between red and blue. You can add as many color options as you want. 
@@ -32,9 +36,9 @@ The Text Styler Macro supports the ability to add multiple options, and it will 
 
 You can pass text from other macros into this one to output the text, or you can play with modifying text directly in the console. 
 
-Type into your console: "text_styler by_word=true/false font_sizes=option1,option2 bg_colors=option1,option2 text_colors=option1,option2 opacities=option1,option2 line=underline,strike,none line_colors=option1,option2 fonts=option1,option2 bold=bold,none italic=italic,none border_colors=option1,option2 message="message""
+Type into your console: "text_styler by_word=true(false by default) font_sizes=option1,option2 bg_colors=option1,option2 text_colors=option1,option2 opacities=option1,option2 line=underline,strike,none line_colors=option1,option2 fonts=option1,option2 bold=bold,none italic=italic,none border_colors=option1,option2 glow_colors=option1,option2 glow_size=option1,option2 randomize=false(true by default) message="your message here""
 
-Example: "text_styler by_word=true font_sizes=25 bg_colors=black,blue text_colors=blue,black opacities=1,0.25 line=underline line_colors=purple fonts=gothic,arial bold=bold, italic=none,italic border_colors=blue,black message="Enjoy using the text styler!""
+Example: "text_styler by_word=true font_sizes=25 bg_colors=black,blue text_colors=blue,black opacities=1,0.25 line=underline line_colors=purple fonts=gothic,arial bold=bold, italic=none,italic border_colors=blue,black glow_colors=yellow glow_size=15 message="Enjoy using the text styler!""
 
 Make sure there is no space between options, they should only be separated by a comma, spaces should separate the different parameters, not the values within then. Case does not matter. 
 

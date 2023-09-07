@@ -1,6 +1,7 @@
-<h1>Klipper Text Styler Macro</h1>
+<h1>KATO, the Klipper Augmented Text Optimizer</h1>
 
-The Text Styler Macro is a versatile tool that allows you to add style and flair to your console output text in Mainsail and Fluidd. It offers a range of customization options to make your text pop. 
+As the ultimate macro for styling text, KATO is a versatile tool that allows you to add style and flair to your console output text in Mainsail and Fluidd. It offers a wide range of customization options to make your text pop in anyway you can imagine![Screenshot 2023-09-07 162941](https://github.com/TmRxJD/Klipper_Augmented_Text_Optimizer/assets/141893411/55173e5d-858a-497e-ad37-8c5d59facf50)
+. 
 
 <h2>Features:</h2>
 

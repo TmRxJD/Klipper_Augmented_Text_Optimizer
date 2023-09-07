@@ -1,7 +1,7 @@
 <h1>KATO, the Klipper Augmented Text Optimizer</h1>
 
-As the ultimate macro for styling text, KATO is a versatile tool that allows you to add style and flair to your console output text in Mainsail and Fluidd. It offers a wide range of customization options to make your text pop in anyway you can imagine![Screenshot 2023-09-07 162941](https://github.com/TmRxJD/Klipper_Augmented_Text_Optimizer/assets/141893411/55173e5d-858a-497e-ad37-8c5d59facf50)
-. 
+As the ultimate macro for styling text, KATO is a versatile tool that allows you to add style and flair to your console output text in Mainsail and Fluidd. It offers a wide range of customization options to make your text pop in anyway you can imagine!![Screenshot 2023-09-07 163519](https://github.com/TmRxJD/Klipper_Augmented_Text_Optimizer/assets/141893411/1fa3f0f4-a7e7-4bf2-bc3d-d9357ecd34de)
+
 
 <h2>Features:</h2>
 

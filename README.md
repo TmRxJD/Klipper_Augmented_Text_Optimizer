@@ -22,6 +22,8 @@ Borders: Add borders around your text with customizable border color and size, a
 
 Font Selection: Choose from a variety of fonts like Arial, Calibri, and more.
 
+Palette Selection: Save your favorite values within the macro to call later as a palette. Example: "text_styler palette=2" You can also still customize individual options within each palette.
+
 <h3>Usage:</h3>
 
 The Text Styler Macro supports the ability to add multiple options, and it will cycle through all that are available, allowing you to create dynamic and visually appealing text. You can specify multiple values for each style parameter, and the macro will apply them sequentially. So setting the colors to red and blue will alternate between red and blue. You can add as many color options as you want. 

@@ -41,6 +41,8 @@ KATO supports the ability to add multiple options, and it will cycle through all
 
 You can pass text from other macros into this one to output the text, or you can play with modifying text directly in the console. 
 
+For the sake of simpliciy there are only 2 options listed, but you can have as many as you want.
+
 Type into your console: "KATO by_word=true(false by default) font_sizes=option1,option2 bg_colors=option1,option2 text_colors=option1,option2 opacities=option1,option2 line=underline,strike,none line_colors=option1,option2 fonts=option1,option2 bold=bold,none italic=italic,none border_colors=option1,option2 glow_colors=option1,option2 glow_size=option1,option2 randomize=false(true by default) message="your message here""
 
 Example: "KATO by_word=true font_sizes=25 bg_colors=black,blue text_colors=blue,black opacities=1,0.25 line=underline line_colors=purple fonts=gothic,arial bold=bold, italic=none,italic border_colors=blue,black glow_colors=yellow glow_size=15 message="Enjoy using KATO!""
